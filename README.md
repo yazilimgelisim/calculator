@@ -5,4 +5,4 @@
 
 ## Demo Project:
 - You can get an idea about the project by seeing the version of the project published on [render.com](https://render.com/)
-- [https://calculator-yazilimvegelisim.onrender.com/](https://calculator-yazilimvegelisim.onrender.com/]
+- [https://calculator-yazilimvegelisim.onrender.com/](https://calculator-yazilimvegelisim.onrender.com/)
