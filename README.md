@@ -5,4 +5,3 @@
 
 ## Demo Project:
 - You can get an idea about the project by seeing the version of the project published on render.com.
-- 
